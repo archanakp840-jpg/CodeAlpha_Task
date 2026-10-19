@@ -1,42 +1,159 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíß^vN‹Z–‹­¦ëeŠw¬İ™É½´‘©…¹¼¹½¹ÑÉ¥ˆ¹…ÕÑ ¥µÁ½ÉĞ•Ñ}ÕÍ•É}µ½‘•°4)™É½´‘©…¹¼¹Ñ•ÍĞ¥µÁ½ÉĞQ•ÍÑ…Í”4)™É½´‘©…¹¼¹ÕÉ±Ì¥µÁ½ÉĞÉ•Ù•ÉÍ”4)™É½´€¹µ½‘•±Ì¥µÁ½ÉĞ½µµ•¹Ğ°½±±½Ü°½±±½İI•ÅÕ•ÍĞ°1¥­”°9½Ñ¥™¥…Ñ¥½¸°A½ÍĞ°AÉ½™¥±”4(4)UÍ•È€ô•Ñ}ÕÍ•É}µ½‘•° ¤4(4)±…ÍÌM½¥…±±½İQ•ÍÑÌ¡Q•ÍÑ…Í”¤è4(€€€Á…ÍÍİ½É€ô€MÑÉ½¹œ…Á…ÍÍÁ¡É…Í”´ĞÈœ4(4(€€€‘•˜µ…­•}ÕÍ•È¡Í•±˜°ÕÍ•É¹…µ”°•µ…¥°õ9½¹”°ÁÉ¥Ù…Ñ”õ…±Í”¤è4(€€€€€€€ÕÍ•È€ôUÍ•È¹½‰©•ÑÌ¹É•…Ñ•}ÕÍ•È¡ÕÍ•É¹…µ”õÕÍ•É¹…µ”°•µ…¥°õ•µ…¥°½È˜íÕÍ•É¹…µ•õ•á…µÁ±”¹Ñ•ÍĞœ°Á…ÍÍİ½ÉõÍ•±˜¹Á…ÍÍİ½É¤4(€€€€€€€ÕÍ•È¹ÁÉ½™¥±”¹¥Í}ÁÉ¥Ù…Ñ”€ôÁÉ¥Ù…Ñ”4(€€€€€€€ÕÍ•È¹ÁÉ½™¥±”¹Í…Ù” ¤4(€€€€€€€É•ÑÕÉ¸ÕÍ•È4(4(€€€‘•˜Ñ•ÍÑ}É•¥ÍÑ•É}…¹‘}±½¥¹}İ¥Ñ¡}•µ…¥°¡Í•±˜¤è4(€€€€€€€É•ÍÁ½¹Í”€ôÍ•±˜¹±¥•¹Ğ¹Á½ÍĞ¡É•Ù•ÉÍ” Í½¥…°éÉ•¥ÍÑ•Èœ¤°ì4(€€€€€€€€€€€€ÕÍ•É¹…µ”œè€¹•İÙ¥•İ•Èœ°€•µ…¥°œè€¹•İ•á…µÁ±”¹Ñ•ÍĞœ°€™Õ±±}¹…µ”œè€9•ÜY¥•İ•Èœ°€Á¡½¹•}¹Õµ‰•Èœè€œ¬ÄĞÄÔÔÔÔÀÄÈÌœ°4(€€€€€€€€€€€€Á…ÍÍİ½ÉÄœèÍ•±˜¹Á…ÍÍİ½É°€Á…ÍÍİ½ÉÈœèÍ•±˜¹Á…ÍÍİ½É°4(€€€€€€€ô¤4(€€€€€€€Í•±˜¹…ÍÍ•ÉÑI•‘¥É•ÑÌ¡É•ÍÁ½¹Í”°É•Ù•ÉÍ” Í½¥…°é¡½µ”œ¤¤4(€€€€€€€ÕÍ•È€ôUÍ•È¹½‰©•ÑÌ¹•Ğ¡ÕÍ•É¹…µ”ô¹•İÙ¥•İ•Èœ¤4(€€€€€€€Í•±˜¹…ÍÍ•ÉÑÅÕ…°¡ÕÍ•È¹ÁÉ½™¥±”¹™Õ±±}¹…µ”°€9•ÜY¥•İ•Èœ¤4(€€€€€€€Í•±˜¹…ÍÍ•ÉÑÅÕ…°¡ÕÍ•È¹ÁÉ½™¥±”¹Á¡½¹•}¹Õµ‰•È°€œ¬ÄĞÄÔÔÔÔÀÄÈÌœ¤4(€€€€€€€Í•±˜¹±¥•¹Ğ¹Á½ÍĞ¡É•Ù•ÉÍ” Í½¥…°é±½½ÕĞœ¤¤4(€€€€€€€É•ÍÁ½¹Í”€ôÍ•±˜¹±¥•¹Ğ¹Á½ÍĞ¡É•Ù•ÉÍ” Í½¥…°é±½¥¸œ¤°ìÕÍ•É¹…µ”œè€¹•İ•á…µÁ±”¹Ñ•ÍĞœ°€Á…ÍÍİ½ÉœèÍ•±˜¹Á…ÍÍİ½É‘ô¤4(€€€€€€€Í•±˜¹…ÍÍ•ÉÑI•‘¥É•ÑÌ¡É•ÍÁ½¹Í”°É•Ù•ÉÍ” Í½¥…°é¡½µ”œ¤¤4(€€€€€€€Í•±˜¹±¥•¹Ğ¹Á½ÍĞ¡É•Ù•ÉÍ” Í½¥…°é±½½ÕĞœ¤¤4(€€€€€€€É•ÍÁ½¹Í”€ôÍ•±˜¹±¥•¹Ğ¹Á½ÍĞ¡É•Ù•ÉÍ” Í½¥…°é±½¥¸œ¤°ìÕÍ•É¹…µ”œè€œ¬ÄĞÄÔÔÔÔÀÄÈÌœ°€Á…ÍÍİ½ÉœèÍ•±˜¹Á…ÍÍİ½É‘ô¤4(€€€€€€€Í•±˜¹…ÍÍ•ÉÑI•‘¥É•ÑÌ¡É•ÍÁ½¹Í”°É•Ù•ÉÍ” Í½¥…°é¡½µ”œ¤¤4(4(€€€‘•˜Ñ•ÍÑ}ÕÍ•É¹…µ•}¥Í}…Í•}¥¹Í•¹Í¥Ñ¥Ù•±å}Õ¹¥ÅÕ”¡Í•±˜¤è4(€€€€€€€Í•±˜¹µ…­•}ÕÍ•È É•…‘•Èœ¤4(€€€€€€€É•ÍÁ½¹Í”€ôÍ•±˜¹±¥•¹Ğ¹Á½ÍĞ¡É•Ù•ÉÍ” Í½¥…°éÉ•¥ÍÑ•Èœ¤°ì4(€€€€€€€€€€€€ÕÍ•É¹…µ”œè€IHœ°€•µ…¥°œè€½Ñ¡•É•á…µÁ±”¹Ñ•ÍĞœ°4(€€€€€€€€€€€€Á…ÍÍİ½ÉÄœèÍ•±˜¹Á…ÍÍİ½É°€Á…ÍÍİ½ÉÈœèÍ•±˜¹Á…ÍÍİ½É°4(€€€€€€€ô¤4(€€€€€€€Í•±˜¹…ÍÍ•ÉÑÅÕ…°¡É•ÍÁ½¹Í”¹ÍÑ…ÑÕÍ}½‘”°€ÈÀÀ¤4(€€€€€€€Í•±˜¹…ÍÍ•ÉÑÅÕ…°¡UÍ•È¹½‰©•ÑÌ¹™¥±Ñ•È¡ÕÍ•É¹…µ•}}¥•á…ĞôÉ•…‘•Èœ¤¹½Õ¹Ğ ¤°€Ä¤4(4(€€€‘•˜Ñ•ÍÑ}ÁÕ‰±¥}™½±±½İ}±¥­•}½µµ•¹Ñ}…¹‘}Á•Éµ¥ÍÍ¥½¹Ì¡Í•±˜¤è4(€€€€€€€…ÕÑ¡½È€ôÍ•±˜¹µ…­•}ÕÍ•È …ÕÑ¡½Èœ¤4(€€€€€€€Í•±˜¹µ…­•}ÕÍ•È Ù¥•İ•Èœ¤4(€€€€€€€Á½ÍĞ€ôA½ÍĞ¹½‰©•ÑÌ¹É•…Ñ”¡…ÕÑ¡½Èõ…ÕÑ¡½È°…ÁÑ¥½¸ôÉ•…°Á½ÍĞœ¤4(€€€€€€€Í•±˜¹±¥•¹Ğ¹±½¥¸¡ÕÍ•É¹…µ”ôÙ¥•İ•Èœ°Á…ÍÍİ½ÉõÍ•±˜¹Á…ÍÍİ½É¤4(€€€€€€€É•ÍÁ½¹Í”€ôÍ•±˜¹±¥•¹Ğ¹•Ğ¡É•Ù•ÉÍ” Í½¥…°é¡½µ”œ¤¤4(€€€€€€€Í•±˜¹…ÍÍ•ÉÑÅÕ…°¡É•ÍÁ½¹Í”¹ÍÑ…ÑÕÍ}½‘”°€ÈÀÀ¤4(€€€€€€€Í•±˜¹…ÍÍ•ÉÑ9½Ñ½¹Ñ…¥¹Ì¡É•ÍÁ½¹Í”°€É•…°Á½ÍĞœ¤4(€€€€€€€Í•±˜¹±¥•¹Ğ¹Á½ÍĞ¡É•Ù•ÉÍ” Í½¥…°é™½±±½İ}Ñ½±”œ°…ÉÌõl…ÕÑ¡½Èt¤¤4(€€€€€€€Í•±˜¹…ÍÍ•ÉÑQÉÕ”¡½±±½Ü¹½‰©•ÑÌ¹™¥±Ñ•È¡™½±±½İ•É}}ÕÍ•É¹…µ”ôÙ¥•İ•Èœ°™½±±½İ¥¹œõ…ÕÑ¡½È¤¹•á¥ÍÑÌ ¤¤4(€€€€€€€É•ÍÁ½¹Í”€ôÍ•±˜¹±¥•¹Ğ¹•Ğ¡É•Ù•ÉÍ” Í½¥…°é¡½µ”œ¤¤4(€€€€€€€Í•±˜¹…ÍÍ•ÉÑ½¹Ñ…¥¹Ì¡É•ÍÁ½¹Í”°€É•…°Á½ÍĞœ¤4(€€€€€€€±¥­•}ÕÉ°€ôÉ•Ù•ÉÍ” Í½¥…°éÑ½±•}±¥­”œ°…ÉÌõmÁ½ÍĞ¹Á­t¤4(€€€€€€€Í•±˜¹…ÍÍ•ÉÑÅÕ…°¡Í•±˜¹±¥•¹Ğ¹Á½ÍĞ¡±¥­•}ÕÉ°¤¹©Í½¸ ¤°ì±¥­•œèQÉÕ”°€½Õ¹Ğœè€Åô¤4(€€€€€€€Í•±˜¹…ÍÍ•ÉÑÅÕ…°¡Í•±˜¹±¥•¹Ğ¹Á½ÍĞ¡±¥­•}ÕÉ°¤¹©Í½¸ ¤°ì±¥­•œè…±Í”°€½Õ¹Ğœè€Áô¤4(€€€€€€€Í•±˜¹±¥•¹Ğ¹Á½ÍĞ¡É•Ù•ÉÍ” Í½¥…°é…‘‘}½µµ•¹Ğœ°…ÉÌõmÁ½ÍĞ¹Á­t¤°ì½¹Ñ•¹Ğœè€9¥”Ù¥•Ü„ô¤4(€€€€€€€Í•±˜¹…ÍÍ•ÉÑQÉÕ”¡½µµ•¹Ğ¹½‰©•ÑÌ¹™¥±Ñ•È¡Á½ÍĞõÁ½ÍĞ°½¹Ñ•¹Ğô9¥”Ù¥•Ü„œ¤¹•á¥ÍÑÌ ¤¤4(€€€€€€€Í•±˜¹…ÍÍ•ÉÑQÉÕ”¡9½Ñ¥™¥…Ñ¥½¸¹½‰©•ÑÌ¹™¥±Ñ•È¡É•¥Á¥•¹Ğõ…ÕÑ¡½È°¹½Ñ¥™¥…Ñ¥½¹}ÑåÁ”ô½µµ•¹Ğœ¤¹•á¥ÍÑÌ ¤¤4(€€€€€€€Í•±˜¹…ÍÍ•ÉÑÅÕ…°¡Í•±˜¹±¥•¹Ğ¹Á½ÍĞ¡É•Ù•ÉÍ” Í½¥…°é•‘¥Ñ}Á½ÍĞœ°…ÉÌõmÁ½ÍĞ¹Á­t¤¤¹ÍÑ…ÑÕÍ}½‘”°€ĞÀĞ¤4(4(€€€‘•˜Ñ•ÍÑ}ÁÉ¥Ù…Ñ•}…½Õ¹Ñ}É•ÅÕ¥É•Í}…ÁÁÉ½Ù…±}‰•™½É•}Á½ÍÑÍ}…É•}Ù¥Í¥‰±”¡Í•±˜¤è4(€€€€€€€½İ¹•È€ôÍ•±˜¹µ…­•}ÕÍ•È ÁÉ¥Ù…Ñ•½İ¹•Èœ°ÁÉ¥Ù…Ñ”õQÉÕ”¤4(€€€€€€€Í•±˜¹µ…­•}ÕÍ•È ™½±±½İ•Èœ¤4(€€€€€€€Á½ÍĞ€ôA½ÍĞ¹½‰©•ÑÌ¹É•…Ñ”¡…ÕÑ¡½Èõ½İ¹•È°…ÁÑ¥½¸ô=¹±ä™½È…ÁÁÉ½Ù•™½±±½İ•ÉÌœ¤4(€€€€€€€Í•±˜¹±¥•¹Ğ¹±½¥¸¡ÕÍ•É¹…µ”ô™½±±½İ•Èœ°Á…ÍÍİ½ÉõÍ•±˜¹Á…ÍÍİ½É¤4(€€€€€€€Í•±˜¹…ÍÍ•ÉÑÅÕ…°¡Í•±˜¹±¥•¹Ğ¹•Ğ¡É•Ù•ÉÍ” Í½¥…°éÁ½ÍÑ}‘•Ñ…¥°œ°…ÉÌõmÁ½ÍĞ¹Á­t¤¤¹ÍÑ…ÑÕÍ}½‘”°€ĞÀĞ¤4(€€€€€€€Í•±˜¹±¥•¹Ğ¹Á½ÍĞ¡É•Ù•ÉÍ” Í½¥…°é™½±±½İ}Ñ½±”œ°…ÉÌõm½İ¹•È¹ÕÍ•É¹…µ•t¤¤4(€€€€€€€É•ÅÕ•ÍĞ€ô½±±½İI•ÅÕ•ÍĞ¹½‰©•ÑÌ¹•Ğ¡É•ÅÕ•ÍÑ•É}}ÕÍ•É¹…µ”ô™½±±½İ•Èœ°Ñ…É•Ğõ½İ¹•È¤4(€€€€€€€Í•±˜¹±¥•¹Ğ¹±½½ÕĞ ¤4(€€€€€€€Í•±˜¹±¥•¹Ğ¹±½¥¸¡ÕÍ•É¹…µ”õ½İ¹•È¹ÕÍ•É¹…µ”°Á…ÍÍİ½ÉõÍ•±˜¹Á…ÍÍİ½É¤4(€€€€€€€Í•±˜¹±¥•¹Ğ¹Á½ÍĞ¡É•Ù•ÉÍ” Í½¥…°éÉ•Í½±Ù•}™½±±½İ}É•ÅÕ•ÍĞœ°…ÉÌõmÉ•ÅÕ•ÍĞ¹Á¬°€…ÁÁÉ½Ù”t¤¤4(€€€€€€€Í•±˜¹…ÍÍ•ÉÑQÉÕ”¡½±±½Ü¹½‰©•ÑÌ¹™¥±Ñ•È¡™½±±½İ•É}}ÕÍ•É¹…µ”ô™½±±½İ•Èœ°™½±±½İ¥¹œõ½İ¹•È¤¹•á¥ÍÑÌ ¤¤4(€€€€€€€Í•±˜¹±¥•¹Ğ¹±½½ÕĞ ¤4(€€€€€€€Í•±˜¹±¥•¹Ğ¹±½¥¸¡ÕÍ•É¹…µ”ô™½±±½İ•Èœ³^v¶‰ËkºwµçHHÙ[‹˜ÛY[œÜİ
-™]™\œÙJ	ÜÛØÚX[™Y]Ü›Ùš[IÊKÃBˆ	İ\Ù\›˜[YIÎˆ	ÙY]Ü‰Ë	Ù[Û˜[YIÎˆ	Ô›Ùš[HY]Ü‰Ë	Øš[ÉÎˆ	ĞHÚÜš[ÉËBˆ	Ú\×Üš]˜]IÎˆ	ÛÛ‰ËBˆJCBˆÙ[‹˜\ÜÙ\™Y\™XİÊ™\ÜÛœÙK™]™\œÙJ	ÜÛØÚX[œ›Ùš[IË\™ÜÏVÉÙY]Ü‰×JJCBˆ\Ù\‹œ›Ùš[Kœ™Yœ™\ÚÙœ›ÛWÙŠ
-CBˆÙ[‹˜\ÜÙ\\]X[
-\Ù\‹œ›Ùš[K™[Û˜[YK	Ô›Ùš[HY]Ü‰ÊCBˆÙ[‹˜\ÜÙ\YJ\Ù\‹œ›Ùš[Kš\×Üš]˜]JCBƒBˆYˆ\İÜÜİØÜ™X][Û—Ü™Z™Xİ×Ú[˜[YÛYYXWØ[™ØXØÙ\×İ^
-Ù[ŠNƒBˆ\Ù\ˆHÙ[‹›XZÙWİ\Ù\Š	ØÜ™X]Ü‰ÊCBˆÙ[‹˜ÛY[›ÙÚ[Š\Ù\›˜[YOIØÜ™X]Ü‰Ë\ÜİÛÜ™\Ù[‹œ\ÜİÛÜ™
-CBˆ™\ÜÛœÙHHÙ[‹˜ÛY[œÜİ
-™]™\œÙJ	ÜÛØÚX[˜Ü™X]WÜÜİ	ÊKÃBˆ	ØØ\[Û‰Îˆ	Õ^İYÚ	Ë	İš\ÚXš[]IÎˆ	ÜX›XÉËBˆJCBˆÙ[‹˜\ÜÙ\\]X[
-™\ÜÛœÙKœİ]\×ØÛÙKÌŠCBˆ^ÜÜİHÜİ›Øš™XİË™Ù]
-]]Ü]\Ù\ŠCBˆÙ[‹˜\ÜÙ\\]X[
-^ÜÜİ›YYXWİ\K	İ^	ÊCBˆ™\ÜÛœÙHHÙ[‹˜ÛY[œÜİ
-™]™\œÙJ	ÜÛØÚX[˜Ü™X]WÜÜİ	ÊKÃBˆ	ØØ\[Û‰Îˆ	Ğ˜Yš[IË	İš\ÚXš[]IÎˆ	ÜX›XÉËBˆ	ÛYYXIÎˆ×Ú[\Ü×Ê	Ù˜[™ÛË˜ÛÜ™K™š[\Ë\ØYYš[IËœ›Û[\İVÉÔÚ[\U\ØYYš[I×JK”Ú[\U\ØYYš[J	Ø˜Yœ™ÉË‰Û›İ[ˆ[XYÙIÊKBˆJCBˆÙ[‹˜\ÜÙ\\]X[
-™\ÜÛœÙKœİ]\×ØÛÙKŒ
-CBˆÙ[‹˜\ÜÙ\\]X[
-Üİ›Øš™XİË™š[\Š]]Ü]\Ù\ŠK˜Ûİ[
+from django.contrib.auth import get_user_model
+from django.test import TestCase
+from django.urls import reverse
+from .models import Comment, Follow, FollowRequest, Like, Notification, Post, Profile
 
-KJCBˆYˆ\İÜ™[XZ[š[™×ÜYÙ\×Ü™[™\—Ù›Ü—Ø]][XØ]Yİ\Ù\ŠÙ[ŠNƒBˆİÛ™\ˆHÙ[‹›XZÙWİ\Ù\Š	ÜYÙ[İÛ™\‰ÊCBˆİ˜[™Ù\ˆHÙ[‹›XZÙWİ\Ù\Š	ÜYÙ]šY]Ù\‰ÊCBˆš]˜]WÛİÛ™\ˆHÙ[‹›XZÙWİ\Ù\Š	Ü[™[™ÛİÛ™\‰Ëš]˜]OUYJCBˆÜİHÜİ›Øš™XİË˜Ü™X]J]]Ü[İÛ™\‹Ø\[ÛIÑ]Z[YÙIÊCBˆ›ÛİÔ™\]Y\İ›Øš™XİË˜Ü™X]J™\]Y\İ\\İ˜[™Ù\‹\™Ù]\š]˜]WÛİÛ™\ŠCBˆÙ[‹˜ÛY[›ÙÚ[Š\Ù\›˜[YOIÜYÙ]šY]Ù\‰Ë\ÜİÛÜ™\Ù[‹œ\ÜİÛÜ™
-CBˆ]ÈHÃBˆ™]™\œÙJ	ÜÛØÚX[œÙX\˜Ú	ÊK™]™\œÙJ	ÜÛØÚX[˜ÛÛXİÉÊK™]™\œÙJ	ÜÛØÚX[™^Ü™IÊKBˆ™]™\œÙJ	ÜÛØÚX[››İYšXØ][ÛœÉÊK™]™\œÙJ	ÜÛØÚX[™›Ûİ×Ü™\]Y\İÉÊKBˆ™]™\œÙJ	ÜÛØÚX[œ›Ùš[IË\™ÜÏVÉÜYÙ]šY]Ù\‰×JKBˆ™]™\œÙJ	ÜÛØÚX[œ›Ùš[IË\™ÜÏVÉÜYÙ[İÛ™\‰×JKBˆ™]™\œÙJ	ÜÛØÚX[œ[ÜWÛ\İ	Ë\™ÜÏVÉÜYÙ[İÛ™\‰Ë	Ù›ÛİÙ\œÉ×JKBˆ™]™\œÙJ	ÜÛØÚX[œ[ÜWÛ\İ	Ë\™ÜÏVÉÜYÙ[İÛ™\‰Ë	Ù›ÛİÚ[™É×JKBˆ™]™\œÙJ	ÜÛØÚX[œÜİÙ]Z[	Ë\™ÜÏVÜÜİœ×JKBˆ™]™\œÙJ	ÜÛØÚX[˜Ü™X]WÜÜİ	ÊKBˆ™]™\œÙJ	ÜÛØÚX[™Y]Ü›Ùš[IÊKBˆCBˆ›Üˆ][ˆ]ÎƒBˆÚ]Ù[‹œİX•\İ
-]\]
-NƒBˆÙ[‹˜\ÜÙ\\]X[
-Ù[‹˜ÛY[™Ù]
-]
-Kœİ]\×ØÛÙKŒ
-CBƒBƒBˆYˆ\İİ˜Ø\™ØÛÛXİÛX]Ú[™ÊÙ[ŠNƒBˆœ›ÛH˜[™ÛË˜ÛÜ™K™š[\Ë\ØYYš[H[\ÜÚ[\U\ØYYš[CBˆœšY[™HÙ[‹›XZÙWİ\Ù\Š	ØÛÛXİœšY[™	Ë[XZ[IÙœšY[™^[\K\İ	ÊCBˆœšY[™œ›Ùš[KœÛ™WÛ[X™\ˆH	ÊÌMMMMMLNNIÃBˆœšY[™œ›Ùš[KœØ]™J
-CBˆÙ[‹›XZÙWİ\Ù\Š	ØÛÛXİİÛ™\‰ÊCBˆÙ[‹˜ÛY[›ÙÚ[Š\Ù\›˜[YOIØÛÛXİİÛ™\‰Ë\ÜİÛÜ™\Ù[‹œ\ÜİÛÜ™
-CBˆØ\™H‰Ğ‘QÒS•ĞT‘•‘T”ÒSÓŒËŒ‘“‘œšY[™‘SPRS™œšY[™^[\K\İ•SŠÌHMHMMHNNW‘S‘•ĞT‘‰ÃBˆ™\ÜÛœÙHHÙ[‹˜ÛY[œÜİ
-™]™\œÙJ	ÜÛØÚX[˜ÛÛXİÉÊKÃBˆ	ØÛÛXİ×Ùš[IÎˆÚ[\U\ØYYš[J	ØÛÛXİË˜Ù‰ËØ\™ÛÛ[İ\OIİ^İ˜Ø\™	ÊKBˆJCBˆÙ[‹˜\ÜÙ\\]X[
-™\ÜÛœÙKœİ]\×ØÛÙKŒ
-CBˆÙ[‹˜\ÜÙ\ÛÛZ[œÊ™\ÜÛœÙK	ĞÛÛXİœšY[™	ÊCBƒBƒBˆYˆ\İÛİÛ™\—ØØ[—ÙY]Ø[™Ù[]WÜÜİØ[™ØÛÛ[Y[
-Ù[ŠNƒBˆİÛ™\ˆHÙ[‹›XZÙWİ\Ù\Š	ÛİÛ™\™Y]	ÊCBˆÙ[‹˜ÛY[›ÙÚ[Š\Ù\›˜[YO[İÛ™\‹\Ù\›˜[YK\ÜİÛÜ™\Ù[‹œ\ÜİÛÜ™
-CBˆÜİHÜİ›Øš™XİË˜Ü™X]J]]Ü[İÛ™\‹Ø\[ÛIÓÜšYÚ[˜[Ø\[Û‰ÊCBˆ™\ÜÛœÙHHÙ[‹˜ÛY[œÜİ
-™]™\œÙJ	ÜÛØÚX[™Y]ÜÜİ	Ë\™ÜÏVÜÜİœ×JKÃBˆ	ØØ\[Û‰Îˆ	Õ\]YØ\[Û‰Ë	İš\ÚXš[]IÎˆ	ÜX›XÉËBˆJCBˆÙ[‹˜\ÜÙ\™Y\™XİÊ™\ÜÛœÙK™]™\œÙJ	ÜÛØÚX[œÜİÙ]Z[	Ë\™ÜÏVÜÜİœ×JJCBˆÜİœ™Yœ™\ÚÙœ›ÛWÙŠ
-CBˆÙ[‹˜\ÜÙ\\]X[
-Üİ˜Ø\[Û‹	Õ\]YØ\[Û‰ÊCBˆÙ[‹˜ÛY[œÜİ
-™]™\œÙJ	ÜÛØÚX[˜YØÛÛ[Y[	Ë\™ÜÏVÜÜİœ×JKÉØÛÛ[	Îˆ	Ó^HÛÛ[Y[	ßJCBˆÛÛ[Y[HÛÛ[Y[›Øš™XİË™Ù]
-Üİ\Üİ
-CBˆÙ[‹˜\ÜÙ\\]X[
-Ù[‹˜ÛY[œÜİ
-™]™\œÙJ	ÜÛØÚX[™[]WØÛÛ[Y[	Ë\™ÜÏVØÛÛ[Y[œ×JJKœİ]\×ØÛÙKÌŠCBˆÙ[‹˜\ÜÙ\˜[ÙJÛÛ[Y[›Øš™XİË™š[\ŠÏXÛÛ[Y[œÊK™^\İÊ
-JCBˆÙ[‹˜\ÜÙ\\]X[
-Ù[‹˜ÛY[œÜİ
-™]™\œÙJ	ÜÛØÚX[™[]WÜÜİ	Ë\™ÜÏVÜÜİœ×JJKœİ]\×ØÛÙKÌŠCBˆÙ[‹˜\ÜÙ\˜[ÙJÜİ›Øš™XİË™š[\ŠÏ\ÜİœÊK™^\İÊ
-JCB
+User = get_user_model()
+
+class SocialFlowTests(TestCase):
+    password = 'Strong!passphrase-42'
+
+    def make_user(self, username, email=None, private=False):
+        user = User.objects.create_user(username=username, email=email or f'{username}@example.test', password=self.password)
+        user.profile.is_private = private
+        user.profile.save()
+        return user
+
+    def test_register_and_login_with_email(self):
+        response = self.client.post(reverse('social:register'), {
+            'username': 'newviewer', 'email': 'new@example.test', 'full_name': 'New Viewer', 'phone_number': '+14155550123',
+            'password1': self.password, 'password2': self.password,
+        })
+        self.assertRedirects(response, reverse('social:home'))
+        user = User.objects.get(username='newviewer')
+        self.assertEqual(user.profile.full_name, 'New Viewer')
+        self.assertEqual(user.profile.phone_number, '+14155550123')
+        self.client.post(reverse('social:logout'))
+        response = self.client.post(reverse('social:login'), {'username': 'new@example.test', 'password': self.password})
+        self.assertRedirects(response, reverse('social:home'))
+        self.client.post(reverse('social:logout'))
+        response = self.client.post(reverse('social:login'), {'username': '+14155550123', 'password': self.password})
+        self.assertRedirects(response, reverse('social:home'))
+
+    def test_username_is_case_insensitively_unique(self):
+        self.make_user('reader')
+        response = self.client.post(reverse('social:register'), {
+            'username': 'READER', 'email': 'other@example.test',
+            'password1': self.password, 'password2': self.password,
+        })
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(User.objects.filter(username__iexact='reader').count(), 1)
+
+    def test_public_follow_like_comment_and_permissions(self):
+        author = self.make_user('author')
+        self.make_user('viewer')
+        post = Post.objects.create(author=author, caption='A real post')
+        self.client.login(username='viewer', password=self.password)
+        response = self.client.get(reverse('social:home'))
+        self.assertEqual(response.status_code, 200)
+        self.assertNotContains(response, 'A real post')
+        self.client.post(reverse('social:follow_toggle', args=['author']))
+        self.assertTrue(Follow.objects.filter(follower__username='viewer', following=author).exists())
+        response = self.client.get(reverse('social:home'))
+        self.assertContains(response, 'A real post')
+        like_url = reverse('social:toggle_like', args=[post.pk])
+        self.assertEqual(self.client.post(like_url).json(), {'liked': True, 'count': 1})
+        self.assertEqual(self.client.post(like_url).json(), {'liked': False, 'count': 0})
+        self.client.post(reverse('social:add_comment', args=[post.pk]), {'content': 'Nice view!'})
+        self.assertTrue(Comment.objects.filter(post=post, content='Nice view!').exists())
+        self.assertTrue(Notification.objects.filter(recipient=author, notification_type='comment').exists())
+        self.assertEqual(self.client.post(reverse('social:edit_post', args=[post.pk])).status_code, 404)
+
+    def test_private_account_requires_approval_before_posts_are_visible(self):
+        owner = self.make_user('privateowner', private=True)
+        self.make_user('follower')
+        post = Post.objects.create(author=owner, caption='Only for approved followers')
+        self.client.login(username='follower', password=self.password)
+        self.assertEqual(self.client.get(reverse('social:post_detail', args=[post.pk])).status_code, 404)
+        self.client.post(reverse('social:follow_toggle', args=[owner.username]))
+        request = FollowRequest.objects.get(requester__username='follower', target=owner)
+        self.client.logout()
+        self.client.login(username=owner.username, password=self.password)
+        self.client.post(reverse('social:resolve_follow_request', args=[request.pk, 'approve']))
+        self.assertTrue(Follow.objects.filter(follower__username='follower', following=owner).exists())
+        self.client.logout()
+        self.client.login(username='follower', password=self.password)
+        self.assertContains(self.client.get(reverse('social:post_detail', args=[post.pk])), 'Only for approved followers')
+
+    def test_profile_update_and_authentication_protection(self):
+        self.assertRedirects(self.client.get(reverse('social:home')), f"{reverse('social:login')}?next=/")
+        user = self.make_user('editor')
+        self.client.login(username='editor', password=self.password)
+        response = self.client.post(reverse('social:edit_profile'), {
+            'username': 'editor', 'full_name': 'Profile Editor', 'bio': 'A short bio',
+            'is_private': 'on',
+        })
+        self.assertRedirects(response, reverse('social:profile', args=['editor']))
+        user.profile.refresh_from_db()
+        self.assertEqual(user.profile.full_name, 'Profile Editor')
+        self.assertTrue(user.profile.is_private)
+
+    def test_post_creation_rejects_invalid_media_and_accepts_text(self):
+        user = self.make_user('creator')
+        self.client.login(username='creator', password=self.password)
+        response = self.client.post(reverse('social:create_post'), {
+            'caption': 'Text thought', 'visibility': 'public',
+        })
+        self.assertEqual(response.status_code, 302)
+        text_post = Post.objects.get(author=user)
+        self.assertEqual(text_post.media_type, 'text')
+        response = self.client.post(reverse('social:create_post'), {
+            'caption': 'Bad file', 'visibility': 'public',
+            'media': __import__('django.core.files.uploadedfile', fromlist=['SimpleUploadedFile']).SimpleUploadedFile('bad.png', b'not an image'),
+        })
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(Post.objects.filter(author=user).count(), 1)
+    def test_remaining_pages_render_for_authenticated_user(self):
+        owner = self.make_user('pageowner')
+        stranger = self.make_user('pageviewer')
+        private_owner = self.make_user('pendingowner', private=True)
+        post = Post.objects.create(author=owner, caption='Detail page')
+        FollowRequest.objects.create(requester=stranger, target=private_owner)
+        self.client.login(username='pageviewer', password=self.password)
+        paths = [
+            reverse('social:search'), reverse('social:contacts'), reverse('social:explore'),
+            reverse('social:notifications'), reverse('social:follow_requests'),
+            reverse('social:profile', args=['pageviewer']),
+            reverse('social:profile', args=['pageowner']),
+            reverse('social:people_list', args=['pageowner', 'followers']),
+            reverse('social:people_list', args=['pageowner', 'following']),
+            reverse('social:post_detail', args=[post.pk]),
+            reverse('social:create_post'),
+            reverse('social:edit_profile'),
+        ]
+        for path in paths:
+            with self.subTest(path=path):
+                self.assertEqual(self.client.get(path).status_code, 200)
+
+
+    def test_vcard_contact_matching(self):
+        from django.core.files.uploadedfile import SimpleUploadedFile
+        friend = self.make_user('contactfriend', email='friend@example.test')
+        friend.profile.phone_number = '+14155550999'
+        friend.profile.save()
+        self.make_user('contactowner')
+        self.client.login(username='contactowner', password=self.password)
+        card = b'BEGIN:VCARD\nVERSION:3.0\nFN:Friend\nEMAIL:friend@example.test\nTEL:+1 415 555 0999\nEND:VCARD\n'
+        response = self.client.post(reverse('social:contacts'), {
+            'contacts_file': SimpleUploadedFile('contacts.vcf', card, content_type='text/vcard'),
+        })
+        self.assertEqual(response.status_code, 200)
+        self.assertContains(response, '@contactfriend')
+
+
+    def test_owner_can_edit_and_delete_post_and_comment(self):
+        owner = self.make_user('owneredit')
+        self.client.login(username=owner.username, password=self.password)
+        post = Post.objects.create(author=owner, caption='Original caption')
+        response = self.client.post(reverse('social:edit_post', args=[post.pk]), {
+            'caption': 'Updated caption', 'visibility': 'public',
+        })
+        self.assertRedirects(response, reverse('social:post_detail', args=[post.pk]))
+        post.refresh_from_db()
+        self.assertEqual(post.caption, 'Updated caption')
+        self.client.post(reverse('social:add_comment', args=[post.pk]), {'content': 'My comment'})
+        comment = Comment.objects.get(post=post)
+        self.assertEqual(self.client.post(reverse('social:delete_comment', args=[comment.pk])).status_code, 302)
+        self.assertFalse(Comment.objects.filter(pk=comment.pk).exists())
+        self.assertEqual(self.client.post(reverse('social:delete_post', args=[post.pk])).status_code, 302)
+        self.assertFalse(Post.objects.filter(pk=post.pk).exists())

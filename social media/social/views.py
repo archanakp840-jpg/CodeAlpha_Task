@@ -1,4 +1,280 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíç½üN‹Z–‹­¦ëeŠw¬á™É½´‘©…¹¼¹½¹ÑÉ¥ˆ¥µÁ½ÉĞµ•ÍÍ…•Ì4)™É½´‘©…¹¼¹½¹ÑÉ¥ˆ¹…ÕÑ ¥µÁ½ÉĞ•Ñ}ÕÍ•É}µ½‘•°°±½¥¸°±½½ÕĞ4)¥µÁ½ÉĞµ¥µ•ÑåÁ•Ì4)¥µÁ½ÉĞÉ”4)™É½´‘©…¹¼¹½¹ÑÉ¥ˆ¹…ÕÑ ¹‘•½É…Ñ½ÉÌ¥µÁ½ÉĞ±½¥¹}É•ÅÕ¥É•4)™É½´‘©…¹¼¹½É”¹Á…¥¹…Ñ½È¥µÁ½ÉĞA…¥¹…Ñ½È4)™É½´‘©…¹¼¹‘ˆ¥µÁ½ÉĞÑÉ…¹Í…Ñ¥½¸4)™É½´‘©…¹¼¹‘ˆ¹µ½‘•±Ì¥µÁ½ÉĞ½Õ¹Ğ°á¥ÍÑÌ°=ÕÑ•ÉI•˜°D4)™É½´‘©…¹¼¹¡ÑÑÀ¥µÁ½ÉĞ¥±•I•ÍÁ½¹Í”°)Í½¹I•ÍÁ½¹Í”°!ÑÑÀĞÀĞ4)™É½´‘©…¹¼¹Í¡½ÉÑÕÑÌ¥µÁ½ÉĞ•Ñ}½‰©•Ñ}½É|ĞÀĞ°É•‘¥É•Ğ°É•¹‘•È4)™É½´‘©…¹¼¹Ù¥•İÌ¹‘•½É…Ñ½ÉÌ¹¡ÑÑÀ¥µÁ½ÉĞÉ•ÅÕ¥É•}A=MP4)™É½´€¹™½ÉµÌ¥µÁ½ÉĞM¥¹ÕÁ½É´°1½¥¹½É´°AÉ½™¥±•½É´°A½ÍÑ½É´°½µµ•¹Ñ½É´4)™É½´€¹µ½‘•±Ì¥µÁ½ÉĞ½µµ•¹Ğ°½±±½Ü°½±±½İI•ÅÕ•ÍĞ°1¥­”°9½Ñ¥™¥…Ñ¥½¸°A½ÍĞ4(4)UÍ•È€ô•Ñ}ÕÍ•É}µ½‘•° ¤4(4)‘•˜¹½Ñ¥™ä¡É•¥Á¥•¹Ğ°…Ñ½È°­¥¹°Á½ÍĞõ9½¹”¤è4(€€€¥˜É•¥Á¥•¹Ğ¹Á¬€„ô…Ñ½È¹Á¬è4(€€€€€€€9½Ñ¥™¥…Ñ¥½¸¹½‰©•ÑÌ¹É•…Ñ”¡É•¥Á¥•¹ĞõÉ•¥Á¥•¹Ğ°…Ñ½Èõ…Ñ½È°¹½Ñ¥™¥…Ñ¥½¹}ÑåÁ”õ­¥¹°É•±…Ñ•‘}Á½ÍĞõÁ½ÍĞ¤4(4)‘•˜…¹}Ù¥•İ}Á½ÍĞ¡ÕÍ•È°Á½ÍĞ¤è4(€€€¥˜¹½ĞÕÍ•È¹¥Í}…ÕÑ¡•¹Ñ¥…Ñ•è4(€€€€€€€É•ÑÕÉ¸…±Í”4(€€€¥˜Á½ÍĞ¹…ÕÑ¡½É}¥€ôôÕÍ•È¹Á¬è4(€€€€€€€É•ÑÕÉ¸QÉÕ”4(€€€™½±±½İ¥¹œ€ô½±±½Ü¹½‰©•ÑÌ¹™¥±Ñ•È¡™½±±½İ•ÈõÕÍ•È°™½±±½İ¥¹œõÁ½ÍĞ¹…ÕÑ¡½È¤¹•á¥ÍÑÌ ¤4(€€€¥˜Á½ÍĞ¹…ÕÑ¡½È¹ÁÉ½™¥±”¹¥Í}ÁÉ¥Ù…Ñ”…¹¹½Ğ™½±±½İ¥¹œè4(€€€€€€€É•ÑÕÉ¸…±Í”4(€€€É•ÑÕÉ¸Á½ÍĞ¹Ù¥Í¥‰¥±¥Ñä€ôô€ÁÕ‰±¥Œœ½È™½±±½İ¥¹œ4(4)‘•˜İ¥Ñ¡}™••‘}…¹¹½Ñ…Ñ¥½¹Ì¡ÅÌ°ÕÍ•È¤è4(€€€É•ÑÕÉ¸ÅÌ¹Í•±•Ñ}É•±…Ñ• …ÕÑ¡½Èœ°€…ÕÑ¡½É}}ÁÉ½™¥±”œ¤¹…¹¹½Ñ…Ñ” 4(€€€€€€€±¥­•Í}Ñ½Ñ…°õ½Õ¹Ğ ±¥­•Ìœ°‘¥ÍÑ¥¹ĞõQÉÕ”¤°4(€€€€€€€½µµ•¹ÑÍ}Ñ½Ñ…°õ½Õ¹Ğ ½µµ•¹ÑÌœ°‘¥ÍÑ¥¹ĞõQÉÕ”¤°4(€€€€€€€¥Í}±¥­•õá¥ÍÑÌ¡1¥­”¹½‰©•ÑÌ¹™¥±Ñ•È¡Á½ÍÑ}¥õ=ÕÑ•ÉI•˜ Á¬œ¤°ÕÍ•ÈõÕÍ•È¤¤°4(€€€€¤4(4)‘•˜Ù¥Í¥‰±•}Á½ÍÑÍ}™½È¡ÕÍ•È°…ÕÑ¡½Èõ9½¹”¤è4(€€€™½±±½İ•€ô½±±½Ü¹½‰©•ÑÌ¹™¥±Ñ•È¡™½±±½İ•ÈõÕÍ•È¤¹Ù…±Õ•Ì ™½±±½İ¥¹}¥œ¤4(€€€ÅÌ€ôİ¥Ñ¡}™••‘}…¹¹½Ñ…Ñ¥½¹Ì¡A½ÍĞ¹½‰©•ÑÌ¹…±° ¤°ÕÍ•È¤4(€€€¥˜…ÕÑ¡½È¥Ì¹½Ğ9½¹”è4(€€€€€€€ÅÌ€ôÅÌ¹™¥±Ñ•È¡…ÕÑ¡½Èõ…ÕÑ¡½È¤4(€€€€€€€¥˜…ÕÑ¡½È¹Á¬€ôôÕÍ•È¹Á¬è4(€€€€€€€€€€€É•ÑÕÉ¸ÅÌ4(€€€€€€€™½±±½İÌ€ô½±±½Ü¹½‰©•ÑÌ¹™¥±Ñ•È¡™½±±½İ•ÈõÕÍ•È°™½±±½İ¥¹œõ…ÕÑ¡½È¤¹•á¥ÍÑÌ ¤4(€€€€€€€¥˜…ÕÑ¡½È¹ÁÉ½™¥±”¹¥Í}ÁÉ¥Ù…Ñ”…¹¹½Ğ™½±±½İÌè4(€€€€€€€€€€€É•ÑÕÉ¸ÅÌ¹¹½¹” ¤4(€€€€€€€¥˜¹½Ğ™½±±½İÌè4(€€€€€€€€€€€ÅÌ€ôÅÌ¹™¥±Ñ•È¡Ù¥Í¥‰¥±¥ÑäôÁÕ‰±¥Œœ¤4(€€€€€€€É•ÑÕÉ¸ÅÌ4(€€€É•ÑÕÉ¸ÅÌ¹™¥±Ñ•È¡D¡…ÕÑ¡½ÈõÕÍ•È¤ğD¡…ÕÑ¡½É}¥‘}}¥¸õ™½±±½İ•¤¤¹™¥±Ñ•È 4(€€€€€€€D¡…ÕÑ¡½ÈõÕÍ•È¤ğD¡Ù¥Í¥‰¥±¥ÑäôÁÕ‰±¥Œœ¤ğD¡…ÕÑ¡½É}¥‘}}¥¸õ™½±±½İ•¤4(€€€€¤4(4)‘•˜É•¥ÍÑ•È¡É•ÅÕ•ÍĞ¤è4(€€€¥˜É•ÅÕ•ÍĞ¹ÕÍ•È¹¥Í}…ÕÑ¡•¹Ñ¥…Ñ•è4(€€€€€€€É•ÑÕÉ¸É•‘¥É•Ğ Í½¥…°é¡½µ”œ¤4(€€€™½É´€ôM¥¹ÕÁ½É´¡É•ÅÕ•ÍĞ¹A=MP½È9½¹”¤4(€€€¥˜É•ÅÕ•ÍĞ¹µ•Ñ¡½€ôô€A=MPœ…¹™½É´¹¥Í}Ù…±¥ ¤è4(€€€€€€€ÕÍ•È€ô™½É´¹Í…Ù” ¤4(€€€€€€€±½¥¸¡É•ÅÕ•ÍĞ°ÕÍ•È¤4(€€€€€€€µ•ÍÍ…•Ì¹ÍÕ•ÍÌ¡É•ÅÕ•ÍĞ°€]•±½µ”Ñ¼¥İ½É±¸e½ÕÈ…½Õ¹Ğ¥ÌÉ•…‘ä¸œ¤4(€€€€€€€É•ÑÕÉ¸É•‘¥É•Ğ Í½¥…°é¡½µ”œ¤4(€€€É•ÑÕÉ¸É•¹‘•È¡É•ÅÕ•ÍĞ°€Í½¥…°½…ÕÑ ¹¡Ñµ°œ°ì™½É´œè™½É´°€µ½‘”œè€É•¥ÍÑ•Èô¤4(4)‘•˜±½¥¹}Ù¥•Ü¡É•ÅÕ•ÍĞ¤è4(€€€¥˜É•ÅÕ•ÍĞ¹ÕÍ•È¹¥Í}…ÕÑ¡•¹Ñ¥…Ñ•è4(€€€€€€€É•ÑÕÉ¸É•‘¥É•Ğ Í½¥…°é¡½µ”œ¤4(€€€™½É´€ô1½¥¹½É´¡É•ÅÕ•ÍĞ°‘…Ñ„õÉ•ÅÕ•ÍĞ¹A=MP½È9½¹”¤4(€€€¥˜É•ÅÕ•ÍĞ¹µ•Ñ¡½€ôô€A=MPœ…¹™½É´¹¥Í}Ù…±¥ ¤è4(€€€€€€€±½¥¸¡É•ÅÕ•ÍĞ°™½É´¹•Ñ}ÕÍ•È ¤¤4(€€€€€€€É•ÑÕÉ¸É•‘¥É•Ğ¡É•ÅÕ•ÍĞ¹P¹•Ğ ¹•áĞœ¤½È€Í½¥…°é¡½µ”œ¤4(€€€É•ÑÕÉ¸É•¹‘•È¡É•ÅÕ•ÍĞ°€Í½¥…°½…ÕÑ ¹¡Ñµ°œ°ì™½É´œè™½É´°€µ½‘”œè€±½¥¸ô¤4(4)É•ÅÕ¥É•}A=MP4)‘•˜±½½ÕÑ}Ù¥•Ü¡É•ÅÕ•ÍĞ¤è4(€€€±½½ÕĞ¡É•ÅÕ•ÍĞ¤4(€€€µ•ÍÍ…•Ì¹¥¹™¼¡É•ÅÕ•ÍĞ°€e½Ô¡…Ù”Í¥¹•½ÕĞ¸œ¤4(€€€É•ÑÕÉ¸É•‘¥É•Ğ Í½¥…°é±½¥¸œ¤4(4)±½¥¹}É•ÅÕ¥É•4)‘•˜¡½µ”¡É•ÅÕ•ÍĞ¤è4(€€€Á½ÍÑÌ€ôÙ¥Í¥‰±•}Á½ÍÑÍ}™½È¡É•ÅÕ•ÍĞ¹ÕÍ•È¤¹½É‘•É}‰ä œµÉ•…Ñ•‘}…Ğœ¤4(€€€Á…”€ôA…¥¹…Ñ½È¡Á½ÍÑÌ°€ÄÀ¤¹•Ñ}Á…”¡É•ÅÕ•ÍĞ¹P¹•Ğ Á…”œ¤¤4(€€€™½±±½İ¥¹}¥‘Ì€ô½±±½Ü¹½‰©•ÑÌ¹™¥±Ñ•È¡™½±±½İ•ÈõÉ•ÅÕ•ÍĞ¹ÕÍ•È¤¹Ù…±Õ•Í}±¥ÍĞ ™½±±½İ¥¹}¥œ°™±…ĞõQÉÕ”¤4(€€€ÍÕ•ÍÑ¥½¹Ì€ôUÍ•È¹½‰©•ÑÌ¹Í•±•Ñ}É•±…Ñ• ÁÉ½™¥±”œ¤¹•á±Õ‘”¡Á¬õÉ•ÅÕ•ÍĞ¹ÕÍ•È¹Á¬¤¹•á±Õ‘”¡Á­}}¥¸õ™½±±½İ¥¹}¥‘Ì¤¹…¹¹½Ñ…Ñ” 4(€€€€€€€™½±±½İ•ÉÍ}Ñ½Ñ…°õ½Õ¹Ğ ™½±±½İ•É}±¥¹­Ìœ¤4(€€€€¤¹½É‘•É}‰ä œµ™½±±½İ•ÉÍ}Ñ½Ñ…°œ°€ÕÍ•É¹…µ”œ¥lèÕt4(€€€ÍÑ½É¥•Ì€ôUÍ•È¹½‰©•ÑÌ¹™¥±Ñ•È¡Á­}}¥¸õ™½±±½İ¥¹}¥‘Ì¤¹Í•±•Ñ}É•±…Ñ• ÁÉ½™¥±”œ¥lèÄÉt4(€€€É•ÑÕÉ¸É•¹‘•È¡É•ÅÕ•ÍĞ°€Í½¥…°½¡½µ”¹¡Ñµ°œ°ì4(€€€€€€€€Á½ÍÑÌœèÁ…”°€ÍÕ•ÍÑ¥½¹ÌœèÍÕ•ÍÑ¥½¹Ì°€Á…•}½‰¨œèÁ…”°4(€€€€€€€€ÍÑ½É¥•ÌœèÍÑ½É¥•Ì°€™½±±½İ}É•ÅÕ•ÍÑ}½Õ¹ĞœèÉ•ÅÕ•ÍĞ¹ÕÍ•È¹É••¥Ù•‘}™½±±½İ}É•ÅÕ•ÍÑÌ¹½Õ¹Ğ ¤°€…Ñ¥Ù”œè€¡½µ”œ°4(€€€ô¤4(4)±½¥¹}É•ÅÕ¥É•4)‘•˜ÁÉ½™¥±”¡É•ÅÕ•ÍĞ°ÕÍ•É¹…µ”¤è4(€€€Á•ÉÍ½¸€ô•Ñ}½‰©•Ñ}½É|ĞÀĞ¡UÍ•È¹½‰©•ÑÌ¹Í•±•Ñ}É•±…Ñ• ÁÉ½™¥±”œ¤°ÕÍ•É¹…µ•}}¥•á…ĞõÕÍ•É¹…µ”¤4(€€€¥Í}™½±±½İ¥¹œ€ô½±±½Ü¹½‰©•ÑÌ¹™¥±Ñ•È¡™½±±½İ•ÈõÉ•ÅÕ•ÍĞ¹ÕÍ•È°™½±±½İ¥¹œõÁ•ÉÍ½¸¤¹•á¥ÍÑÌ ¤4(€€€É•ÅÕ•ÍÑ}Á•¹‘¥¹œ€ô½±±½İI•ÅÕ•ÍĞ¹½‰©•ÑÌ¹™¥±Ñ•È¡É•ÅÕ•ÍÑ•ÈõÉ•ÅÕ•ÍĞ¹ÕÍ•È°Ñ…É•ĞõÁ•ÉÍ½¸¤¹•á¥ÍÑÌ ¤4(€€€ƒn÷òÚ$z{-®éÜj×ople[:50], 'active': 'search'})
+from django.contrib import messages
+from django.contrib.auth import get_user_model, login, logout
+import mimetypes
+import re
+from django.contrib.auth.decorators import login_required
+from django.core.paginator import Paginator
+from django.db import transaction
+from django.db.models import Count, Exists, OuterRef, Q
+from django.http import FileResponse, JsonResponse, Http404
+from django.shortcuts import get_object_or_404, redirect, render
+from django.views.decorators.http import require_POST
+from .forms import SignupForm, LoginForm, ProfileForm, PostForm, CommentForm
+from .models import Comment, Follow, FollowRequest, Like, Notification, Post
+
+User = get_user_model()
+
+def notify(recipient, actor, kind, post=None):
+    if recipient.pk != actor.pk:
+        Notification.objects.create(recipient=recipient, actor=actor, notification_type=kind, related_post=post)
+
+def can_view_post(user, post):
+    if not user.is_authenticated:
+        return False
+    if post.author_id == user.pk:
+        return True
+    following = Follow.objects.filter(follower=user, following=post.author).exists()
+    if post.author.profile.is_private and not following:
+        return False
+    return post.visibility == 'public' or following
+
+def with_feed_annotations(qs, user):
+    return qs.select_related('author', 'author__profile').annotate(
+        likes_total=Count('likes', distinct=True),
+        comments_total=Count('comments', distinct=True),
+        is_liked=Exists(Like.objects.filter(post_id=OuterRef('pk'), user=user)),
+    )
+
+def visible_posts_for(user, author=None):
+    followed = Follow.objects.filter(follower=user).values('following_id')
+    qs = with_feed_annotations(Post.objects.all(), user)
+    if author is not None:
+        qs = qs.filter(author=author)
+        if author.pk == user.pk:
+            return qs
+        follows = Follow.objects.filter(follower=user, following=author).exists()
+        if author.profile.is_private and not follows:
+            return qs.none()
+        if not follows:
+            qs = qs.filter(visibility='public')
+        return qs
+    return qs.filter(Q(author=user) | Q(author_id__in=followed)).filter(
+        Q(author=user) | Q(visibility='public') | Q(author_id__in=followed)
+    )
+
+def register(request):
+    if request.user.is_authenticated:
+        return redirect('social:home')
+    form = SignupForm(request.POST or None)
+    if request.method == 'POST' and form.is_valid():
+        user = form.save()
+        login(request, user)
+        messages.success(request, 'Welcome to iworld. Your account is ready.')
+        return redirect('social:home')
+    return render(request, 'social/auth.html', {'form': form, 'mode': 'register'})
+
+def login_view(request):
+    if request.user.is_authenticated:
+        return redirect('social:home')
+    form = LoginForm(request, data=request.POST or None)
+    if request.method == 'POST' and form.is_valid():
+        login(request, form.get_user())
+        return redirect(request.GET.get('next') or 'social:home')
+    return render(request, 'social/auth.html', {'form': form, 'mode': 'login'})
+
+@require_POST
+def logout_view(request):
+    logout(request)
+    messages.info(request, 'You have signed out.')
+    return redirect('social:login')
+
+@login_required
+def home(request):
+    posts = visible_posts_for(request.user).order_by('-created_at')
+    page = Paginator(posts, 10).get_page(request.GET.get('page'))
+    following_ids = Follow.objects.filter(follower=request.user).values_list('following_id', flat=True)
+    suggestions = User.objects.select_related('profile').exclude(pk=request.user.pk).exclude(pk__in=following_ids).annotate(
+        followers_total=Count('follower_links')
+    ).order_by('-followers_total', 'username')[:5]
+    stories = User.objects.filter(pk__in=following_ids).select_related('profile')[:12]
+    return render(request, 'social/home.html', {
+        'posts': page, 'suggestions': suggestions, 'page_obj': page,
+        'stories': stories, 'follow_request_count': request.user.received_follow_requests.count(), 'active': 'home',
+    })
+
+@login_required
+def profile(request, username):
+    person = get_object_or_404(User.objects.select_related('profile'), username__iexact=username)
+    is_following = Follow.objects.filter(follower=request.user, following=person).exists()
+    request_pending = FollowRequest.objects.filter(requester=request.user, target=person).exists()
+    can_see = person.pk == request.user.pk or not person.profile.is_private or is_following
+    posts = visible_posts_for(request.user, person).order_by('-created_at') if can_see else Post.objects.none()
+    page = Paginator(posts.order_by('-created_at'), 12).get_page(request.GET.get('page'))
+    return render(request, 'social/profile.html', {
+        'person': person, 'posts': page, 'page_obj': page, 'active': 'profile', 'is_following': is_following,
+        'request_pending': request_pending, 'can_see': can_see,
+        'followers_count': person.follower_links.count(), 'following_count': person.following_links.count(),
+    })
+
+@login_required
+def edit_profile(request):
+    profile = request.user.profile
+    form = ProfileForm(request.POST or None, request.FILES or None, instance=profile, user=request.user)
+    if request.method == 'POST' and form.is_valid():
+        was_private = profile.is_private
+        form.save()
+        if was_private and not request.user.profile.is_private:
+            FollowRequest.objects.filter(target=request.user).delete()
+        messages.success(request, 'Your profile was updated.')
+        return redirect('social:profile', username=request.user.username)
+    return render(request, 'social/edit_profile.html', {'form': form, 'active': 'profile'})
+
+@login_required
+@require_POST
+def follow_toggle(request, username):
+    person = get_object_or_404(User, username__iexact=username)
+    if person.pk == request.user.pk:
+        messages.error(request, 'You cannot follow yourself.')
+        return redirect('social:profile', username=person.username)
+    follow = Follow.objects.filter(follower=request.user, following=person).first()
+    if follow:
+        follow.delete()
+        messages.info(request, f'You unfollowed @{person.username}.')
+    elif person.profile.is_private:
+        item, created = FollowRequest.objects.get_or_create(requester=request.user, target=person)
+        if created:
+            notify(person, request.user, 'follow_request')
+            messages.success(request, 'Follow request sent.')
+        else:
+            item.delete()
+            messages.info(request, 'Follow request canceled.')
+    else:
+        Follow.objects.get_or_create(follower=request.user, following=person)
+        notify(person, request.user, 'follow')
+        messages.success(request, f'You are following @{person.username}.')
+    return redirect('social:profile', username=person.username)
+
+@login_required
+def follow_requests(request):
+    requests = request.user.received_follow_requests.select_related('requester', 'requester__profile')
+    return render(request, 'social/follow_requests.html', {'requests': requests, 'active': 'requests'})
+
+@login_required
+@require_POST
+def resolve_follow_request(request, request_id, action):
+    if action not in ('approve', 'decline'):
+        messages.error(request, 'Unknown request action.')
+        return redirect('social:follow_requests')
+    item = get_object_or_404(request.user.received_follow_requests.select_related('requester'), pk=request_id)
+    if action == 'approve':
+        with transaction.atomic():
+            Follow.objects.get_or_create(follower=item.requester, following=request.user)
+            notify(item.requester, request.user, 'follow')
+        messages.success(request, f'@{item.requester.username} is now following you.')
+    else:
+        messages.info(request, 'Follow request declined.')
+    item.delete()
+    return redirect('social:follow_requests')
+
+@login_required
+def create_post(request):
+    form = PostForm(request.POST or None, request.FILES or None)
+    if request.method == 'POST' and form.is_valid():
+        post = form.save(commit=False)
+        post.author = request.user
+        post.save()
+        messages.success(request, 'Your post is live.')
+        return redirect('social:post_detail', post_id=post.pk)
+    return render(request, 'social/post_form.html', {'form': form, 'title': 'Create a post'})
+
+@login_required
+def edit_post(request, post_id):
+    post = get_object_or_404(Post, pk=post_id, author=request.user)
+    form = PostForm(request.POST or None, request.FILES or None, instance=post)
+    if request.method == 'POST' and form.is_valid():
+        form.save()
+        messages.success(request, 'Post updated.')
+        return redirect('social:post_detail', post_id=post.pk)
+    return render(request, 'social/post_form.html', {'form': form, 'title': 'Edit post', 'post': post})
+
+@login_required
+@require_POST
+def delete_post(request, post_id):
+    post = get_object_or_404(Post, pk=post_id, author=request.user)
+    post.delete()
+    messages.success(request, 'Post deleted.')
+    return redirect('social:profile', username=request.user.username)
+
+@login_required
+def post_detail(request, post_id):
+    post = get_object_or_404(with_feed_annotations(Post.objects.all(), request.user), pk=post_id)
+    if not can_view_post(request.user, post):
+        raise Http404
+    comments = post.comments.select_related('author', 'author__profile')[:100]
+    return render(request, 'social/post_detail.html', {'post': post, 'comments': comments, 'comment_form': CommentForm()})
+
+@login_required
+def serve_post_media(request, post_id):
+    post = get_object_or_404(Post, pk=post_id)
+    if not can_view_post(request.user, post):
+        raise Http404
+    if not post.media:
+        raise Http404
+    response = FileResponse(post.media.open('rb'), content_type=mimetypes.guess_type(post.media.name)[0] or 'application/octet-stream')
+    response['X-Content-Type-Options'] = 'nosniff'
+    return response
+
+@login_required
+def serve_profile_picture(request, user_id):
+    from .models import Profile
+    profile = get_object_or_404(Profile.objects.select_related('user'), user_id=user_id)
+    if not profile.profile_picture:
+        raise Http404
+    response = FileResponse(profile.profile_picture.open('rb'), content_type=mimetypes.guess_type(profile.profile_picture.name)[0] or 'application/octet-stream')
+    response['X-Content-Type-Options'] = 'nosniff'
+    return response
+
+@login_required
+@require_POST
+def toggle_like(request, post_id):
+    post = get_object_or_404(Post.objects.select_related('author', 'author__profile'), pk=post_id)
+    if not can_view_post(request.user, post):
+        return JsonResponse({'error': 'This post is private.'}, status=403)
+    like = Like.objects.filter(post=post, user=request.user).first()
+    if like:
+        like.delete()
+        liked = False
+    else:
+        Like.objects.get_or_create(post=post, user=request.user)
+        liked = True
+        notify(post.author, request.user, 'like', post)
+    return JsonResponse({'liked': liked, 'count': post.likes.count()})
+
+@login_required
+@require_POST
+def add_comment(request, post_id):
+    post = get_object_or_404(Post.objects.select_related('author', 'author__profile'), pk=post_id)
+    if not can_view_post(request.user, post):
+        raise Http404
+    form = CommentForm(request.POST)
+    if form.is_valid():
+        comment = form.save(commit=False)
+        comment.post = post
+        comment.author = request.user
+        comment.save()
+        notify(post.author, request.user, 'comment', post)
+    else:
+        messages.error(request, form.errors.get('content', ['Could not add comment.'])[0])
+    return redirect('social:post_detail', post_id=post.pk)
+
+@login_required
+@require_POST
+def delete_comment(request, comment_id):
+    comment = get_object_or_404(Comment.objects.select_related('post'), pk=comment_id, author=request.user)
+    post_id = comment.post_id
+    comment.delete()
+    messages.success(request, 'Comment deleted.')
+    return redirect('social:post_detail', post_id=post_id)
+
+@login_required
+def search(request):
+    q = request.GET.get('q', '').strip()[:80]
+    people = User.objects.select_related('profile').exclude(pk=request.user.pk)
+    if q:
+        people = people.filter(Q(username__icontains=q) | Q(profile__full_name__icontains=q))
+    else:
+        people = User.objects.none()
+    return render(request, 'social/search.html', {'query': q, 'people': people[:50], 'active': 'search'})
 
 @login_required
 def explore(request):

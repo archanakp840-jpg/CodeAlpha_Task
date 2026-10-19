@@ -6,6 +6,7 @@ iworld is an original social network built with Django, Django templates, vanill
 
 Requires Python 3.10 or newer. From PowerShell:
 
+    cd SocialMedia
     py -m venv .venv
     .\.venv\Scripts\Activate.ps1
     python -m pip install -r requirements.txt
