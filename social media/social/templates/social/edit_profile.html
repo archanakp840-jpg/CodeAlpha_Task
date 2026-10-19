@@ -1,0 +1,7 @@
+{% extends 'social/base.html' %}
+{% block title %}Edit profile · iworld{% endblock %}
+{% block content %}
+<div class="form-page"><a class="back-link" href="{% url 'social:profile' request.user.username %}">← Back to profile</a><section class="form-card"><p class="eyebrow">YOUR SPACE</p><h1>Edit profile</h1><form method="post" enctype="multipart/form-data" class="stack-form">{% csrf_token %}
+{% for field in form %}<label class="field">{{ field.label }}{{ field }}{% if field.help_text %}<small>{{ field.help_text }}</small>{% endif %}{% for error in field.errors %}<small class="field-error">{{ error }}</small>{% endfor %}</label>{% endfor %}
+{% for error in form.non_field_errors %}<small class="field-error">{{ error }}</small>{% endfor %}<button class="button primary wide" type="submit">Save changes <span>↗</span></button></form></section></div>
+{% endblock %}

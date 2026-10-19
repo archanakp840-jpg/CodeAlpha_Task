@@ -1,0 +1,14 @@
+{% extends 'social/base.html' %}
+{% block title %}{% if mode == 'register' %}Create account{% else %}Sign in{% endif %} · iworld{% endblock %}
+{% block auth_content %}
+<div class="auth-shell"><a class="brand auth-brand" href="{% url 'social:login' %}"><span class="brand-eye"><i></i></span><span>iworld</span></a>
+<section class="auth-card"><p class="eyebrow">A WORLD OF POINTS OF VIEW</p><h1>{% if mode == 'register' %}Find your people.{% else %}Good to see you again.{% endif %}</h1>
+<p class="auth-subtitle">{% if mode == 'register' %}Create a space for the moments you want to share.{% else %}Sign in and pick up where you left off.{% endif %}</p>
+<form method="post" class="stack-form">{% csrf_token %}
+{% for field in form %}<label class="field">{{ field.label }}{{ field }}{% if field.help_text %}<small>{{ field.help_text|safe }}</small>{% endif %}{% for error in field.errors %}<small class="field-error">{{ error }}</small>{% endfor %}</label>{% endfor %}
+{% for error in form.non_field_errors %}<p class="field-error">{{ error }}</p>{% endfor %}
+<button class="button primary wide" type="submit">{% if mode == 'register' %}Create account{% else %}Sign in{% endif %}<span>↗</span></button></form>
+{% if mode == 'login' %}<a class="forgot-link" href="{% url 'password_reset' %}">Forgot your password?</a>{% endif %}
+<p class="auth-switch">{% if mode == 'register' %}Already here? <a href="{% url 'social:login' %}">Sign in</a>{% else %}New to iworld? <a href="{% url 'social:register' %}">Create account</a>{% endif %}</p>
+</section><p class="auth-foot">A quieter corner of the internet. © 2026 iworld</p></div>
+{% endblock %}

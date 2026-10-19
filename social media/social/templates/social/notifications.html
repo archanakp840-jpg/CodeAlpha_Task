@@ -1,0 +1,6 @@
+{% extends 'social/base.html' %}
+{% block title %}Activity · iworld{% endblock %}
+{% block content %}
+<div class="list-page narrow-list"><p class="eyebrow">YOUR ORBIT</p><h1>Activity</h1>{% if pending_requests %}<a class="request-banner" href="{% url 'social:follow_requests' %}">You have {{ pending_requests }} follow request{{ pending_requests|pluralize }} <span>Review →</span></a>{% endif %}
+<div class="notification-list">{% for item in notifications %}<article class="notification-row card">{% if item.actor.profile.profile_picture %}<img class="avatar" src="{% url 'social:serve_profile_picture' item.actor.id %}" alt="">{% else %}<span class="avatar">{{ item.actor.username|first|upper }}</span>{% endif %}<span><a class="username" href="{% url 'social:profile' item.actor.username %}">@{{ item.actor.username }}</a> {{ item.get_notification_type_display }}{% if item.related_post %} · <a href="{% url 'social:post_detail' item.related_post.pk %}">View post</a>{% endif %}<small>{{ item.created_at|timesince }} ago</small></span></article>{% empty %}<div class="empty card"><span class="empty-eye">♡</span><h2>All quiet for now</h2><p>Likes, comments, and follows will show up here.</p></div>{% endfor %}</div></div>
+{% endblock %}

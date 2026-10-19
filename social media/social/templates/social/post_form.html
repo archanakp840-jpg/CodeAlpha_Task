@@ -1,0 +1,12 @@
+{% extends 'social/base.html' %}
+{% block title %}{{ title }} · iworld{% endblock %}
+{% block content %}
+<div class="form-page"><a class="back-link" href="{% if post %}{% url 'social:post_detail' post.pk %}{% else %}{% url 'social:home' %}{% endif %}">← Back</a><section class="form-card"><p class="eyebrow">SHARE A POINT OF VIEW</p><h1>{{ title }}</h1>
+<form method="post" enctype="multipart/form-data" class="stack-form" id="postForm">{% csrf_token %}
+<label class="field" for="{{ form.media.id_for_label }}">Photo or video <span class="muted">· optional</span>{{ form.media }}{% for error in form.media.errors %}<small class="field-error">{{ error }}</small>{% endfor %}<small>Images up to 8 MB. MP4, WebM, MOV up to 30 MB. Text-only posts are welcome.</small></label>
+<div id="mediaPreview" class="media-preview hidden"></div>
+<label class="field" for="{{ form.caption.id_for_label }}">Caption{{ form.caption }}{% for error in form.caption.errors %}<small class="field-error">{{ error }}</small>{% endfor %}</label>
+<label class="field" for="{{ form.visibility.id_for_label }}">Who can see this post?{{ form.visibility }}{% for error in form.visibility.errors %}<small class="field-error">{{ error }}</small>{% endfor %}</label>
+{% for error in form.non_field_errors %}<small class="field-error">{{ error }}</small>{% endfor %}
+<button class="button primary wide" type="submit">Share post <span>↗</span></button></form></section></div>
+{% endblock %}

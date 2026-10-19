@@ -1,0 +1,7 @@
+{% extends 'social/base.html' %}
+{% block title %}Explore · iworld{% endblock %}
+{% block content %}
+<div class="list-page"><p class="eyebrow">DISCOVER</p><h1>Explore perspectives.</h1><p class="intro">Public posts from people you’re not following yet.</p>
+<div class="explore-grid">{% for post in posts %}<a class="explore-card" href="{% url 'social:post_detail' post.pk %}">{% if post.media %}{% if post.media_type == 'video' %}<video src="{% url 'social:serve_post_media' post.pk %}" muted preload="metadata"></video>{% else %}<img src="{% url 'social:serve_post_media' post.pk %}" alt="" loading="lazy">{% endif %}{% else %}<span class="text-tile">{{ post.caption|truncatechars:180 }}</span>{% endif %}<span class="explore-overlay"><b>@{{ post.author.username }}</b><small>♡ {{ post.likes_total }} · ◯ {{ post.comments_total }}</small></span></a>{% empty %}<div class="empty card"><h2>Nothing new in view yet</h2><p>Try searching for people to follow.</p><a class="button primary" href="{% url 'social:search' %}">Search people</a></div>{% endfor %}</div>
+{% if page_obj.has_other_pages %}<nav class="pagination">{% if page_obj.has_previous %}<a href="?page={{ page_obj.previous_page_number }}">← Previous</a>{% endif %}{% if page_obj.has_next %}<a href="?page={{ page_obj.next_page_number }}">Next →</a>{% endif %}</nav>{% endif %}</div>
+{% endblock %}

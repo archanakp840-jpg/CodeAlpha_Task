@@ -1,0 +1,49 @@
+{% load static %}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#101411">
+  <title>{% block title %}iWorld · moments in perspective{% endblock %}</title>
+  <link rel="stylesheet" href="{% static 'social/css/style.css' %}"><script defer src="{% static 'social/js/script.js' %}"></script>
+</head>
+<body>
+{% if request.user.is_authenticated %}
+<div class="app-shell">
+  <aside class="sidebar">
+    <a class="brand" href="{% url 'social:home' %}"><span class="brand-eye"><i></i></span><span>iworld</span></a>
+    <p class="nav-label">YOUR SPACE</p>
+    <nav class="main-nav" aria-label="Main navigation">
+      <a class="nav-link {% if active == 'home' %}active{% endif %}" href="{% url 'social:home' %}"><span class="nav-icon">⌂</span><span>Home</span></a>
+      <a class="nav-link {% if active == 'search' %}active{% endif %}" href="{% url 'social:search' %}"><span class="nav-icon">⌕</span><span>Search</span></a>
+      <a class="nav-link {% if active == 'explore' %}active{% endif %}" href="{% url 'social:explore' %}"><span class="nav-icon">◈</span><span>Explore</span></a>
+      <a class="nav-link {% if active == 'contacts' %}active{% endif %}" href="{% url 'social:contacts' %}"><span class="nav-icon">♧</span><span>Find contacts</span></a>
+      <a class="nav-link" href="{% url 'social:create_post' %}"><span class="nav-icon">＋</span><span>Create post</span></a>
+      <a class="nav-link {% if active == 'notifications' %}active{% endif %}" href="{% url 'social:notifications' %}"><span class="nav-icon">♡</span><span>Activity{% if nav_unread_count %}<i class="badge">{{ nav_unread_count }}</i>{% endif %}</span></a>
+      <a class="nav-link {% if active == 'requests' %}active{% endif %}" href="{% url 'social:follow_requests' %}"><span class="nav-icon">♧</span><span>Follow requests{% if nav_request_count %}<i class="badge">{{ nav_request_count }}</i>{% endif %}</span></a>
+    </nav>
+    <div class="sidebar-bottom">
+      <a class="sidebar-profile" href="{% url 'social:profile' request.user.username %}">
+        {% if request.user.profile.profile_picture %}<img class="avatar" src="{% url 'social:serve_profile_picture' request.user.id %}" alt="">{% else %}<span class="avatar avatar-you">{{ request.user.username|first|upper }}</span>{% endif %}
+        <span><b>@{{ request.user.username }}</b><small>{{ request.user.profile.full_name|default:'Your profile' }}</small></span><span class="more">↗</span>
+      </a>
+      <form method="post" action="{% url 'social:logout' %}">{% csrf_token %}<button class="theme-button" type="submit">↪ Sign out</button></form>
+    </div>
+  </aside>
+  <main class="main-column">
+    <header class="mobile-header"><a class="brand" href="{% url 'social:home' %}"><span class="brand-eye"><i></i></span><span>iworld</span></a><a class="icon-button" href="{% url 'social:search' %}" aria-label="Search">⌕</a></header>
+    {% if messages %}<div class="messages">{% for message in messages %}<div class="message {{ message.tags }}">{{ message }}</div>{% endfor %}</div>{% endif %}
+    {% block content %}{% endblock %}
+  </main>
+</div>
+<nav class="mobile-nav" aria-label="Mobile navigation">
+  <a class="{% if active == 'home' %}selected{% endif %}" href="{% url 'social:home' %}">⌂<span>Home</span></a>
+  <a class="{% if active == 'search' %}selected{% endif %}" href="{% url 'social:search' %}">⌕<span>Search</span></a>
+  <a href="{% url 'social:create_post' %}">＋<span>Create</span></a>
+  <a class="{% if active == 'notifications' %}selected{% endif %}" href="{% url 'social:notifications' %}">♡<span>Activity</span></a>
+  <a href="{% url 'social:profile' request.user.username %}">◉<span>Profile</span></a>
+</nav>
+{% else %}
+{% if messages %}<div class="auth-messages">{% for message in messages %}<div class="message {{ message.tags }}">{{ message }}</div>{% endfor %}</div>{% endif %}
+{% block auth_content %}{% endblock %}
+{% endif %}
+</body></html>

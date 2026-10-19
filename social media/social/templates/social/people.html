@@ -1,0 +1,5 @@
+{% extends 'social/base.html' %}
+{% block title %}{{ kind|title }} of @{{ person.username }}{% endblock %}
+{% block content %}
+<div class="list-page narrow-list"><a class="back-link" href="{% url 'social:profile' person.username %}">← @{{ person.username }}</a><p class="eyebrow">COMMUNITY</p><h1>{{ kind|title }}</h1><div class="people-list">{% for account in people %}<a class="person-row card" href="{% url 'social:profile' account.username %}">{% if account.profile.profile_picture %}<img class="avatar large" src="{% url 'social:serve_profile_picture' account.id %}" alt="">{% else %}<span class="avatar large">{{ account.username|first|upper }}</span>{% endif %}<span><b>@{{ account.username }}</b><small>{{ account.profile.full_name|default:'iWorld member' }}</small></span><span class="person-arrow">↗</span></a>{% empty %}<div class="empty card"><h2>No {{ kind }} yet</h2></div>{% endfor %}</div></div>
+{% endblock %}

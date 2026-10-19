@@ -1,0 +1,4 @@
+Django>=5.2,<7.0
+Pillow>=11.0
+# Optional for PostgreSQL deployments:
+psycopg[binary]>=3.2

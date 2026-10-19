@@ -1,0 +1,6 @@
+{% extends 'social/base.html' %}
+{% block title %}Search · iworld{% endblock %}
+{% block content %}
+<div class="list-page"><p class="eyebrow">DISCOVER YOUR ORBIT</p><a class="contact-link" href="{% url 'social:contacts' %}">Find people from your contacts ↗</a><h1>Find your people.</h1><form method="get" class="search-form"><input type="search" name="q" value="{{ query }}" placeholder="Search by name or username…" autofocus><button class="button primary" type="submit">Search <span>⌕</span></button></form>
+{% if query %}<p class="muted search-summary">Results for “{{ query }}”</p><div class="people-list">{% for person in people %}<a class="person-row card" href="{% url 'social:profile' person.username %}">{% if person.profile.profile_picture %}<img class="avatar large" src="{% url 'social:serve_profile_picture' person.id %}" alt="">{% else %}<span class="avatar large">{{ person.username|first|upper }}</span>{% endif %}<span><b>@{{ person.username }}</b><small>{{ person.profile.full_name|default:'iWorld member' }}{% if person.profile.is_private %} · Private{% endif %}</small><small>{{ person.profile.bio|default:'' }}</small></span><span class="person-arrow">↗</span></a>{% empty %}<div class="empty card"><h2>No one found</h2><p>Try another name or username.</p></div>{% endfor %}</div>{% endif %}</div>
+{% endblock %}
