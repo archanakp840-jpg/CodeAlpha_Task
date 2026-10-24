@@ -1,0 +1,17 @@
+{% extends 'store/base.html' %}
+{% block title %}Explore Products — HomeMate{% endblock %}
+{% block content %}
+<section class="listing-hero"><span class="eyebrow">FIND YOUR EVERYDAY FAVORITES</span><h1>Explore our products</h1><p>Browse our collection and find the products that fit your needs and lifestyle.</p><form class="listing-search" method="get"><label class="sr-only" for="listing-q">Search products</label><input id="listing-q" name="q" value="{{ query }}" placeholder="What are you looking for?"><button class="button button-dark">Search <span>⌕</span></button></form></section>
+<section class="listing-layout">
+  <form class="filter-panel" method="get" id="filters"><input type="hidden" name="q" value="{{ query }}"><div class="filter-heading"><h2>Filters</h2><a href="{% url 'product_list' %}">Clear all</a></div>
+    <fieldset><legend>Category</legend><label class="filter-option"><input type="radio" name="category" value="" {% if not selected_category %}checked{% endif %}> All products</label>{% for category in categories %}<label class="filter-option"><input type="radio" name="category" value="{{ category.slug }}" {% if selected_category == category.slug %}checked{% endif %}> {{ category.name }}</label>{% endfor %}</fieldset>
+    <fieldset><legend>Price range</legend><div class="price-fields"><label><span class="sr-only">Minimum price</span><input type="number" min="0" name="min_price" placeholder="₹ Min" value="{{ price_min }}"></label><label><span class="sr-only">Maximum price</span><input type="number" min="0" name="max_price" placeholder="₹ Max" value="{{ price_max }}"></label></div></fieldset>
+    <fieldset><legend>Availability</legend><label class="filter-option"><input type="checkbox" name="available" value="1" {% if available %}checked{% endif %}> In stock</label><label class="filter-option"><input type="checkbox" name="new" value="1" {% if new_only %}checked{% endif %}> New arrivals</label></fieldset>
+    <input type="hidden" name="sort" value="{{ sort }}"><button class="button button-dark apply-filters">Apply filters</button>
+  </form>
+  <div class="listing-results"><div class="listing-toolbar"><span><strong>{{ result_count }}</strong> product{{ result_count|pluralize }}</span><label>Sort by <select name="sort" form="filters" onchange="this.form.submit()"><option value="featured" {% if sort == 'featured' %}selected{% endif %}>Featured</option><option value="price_asc" {% if sort == 'price_asc' %}selected{% endif %}>Price: low to high</option><option value="price_desc" {% if sort == 'price_desc' %}selected{% endif %}>Price: high to low</option><option value="newest" {% if sort == 'newest' %}selected{% endif %}>Newest</option></select></label></div>
+    <div class="product-grid">{% for product in products %}{% include 'store/partials/product_card.html' with product=product %}{% empty %}<div class="empty-state"><h3>No products match those filters.</h3><p>Try widening the price range or exploring another category.</p><a class="button button-dark" href="{% url 'product_list' %}">Clear filters</a></div>{% endfor %}</div>
+    {% if page_obj.paginator.num_pages > 1 %}<nav class="pagination" aria-label="Product pages">{% if page_obj.has_previous %}<a href="?{{ pagination_query }}&page={{ page_obj.previous_page_number }}">← Previous</a>{% endif %}<span>Page {{ page_obj.number }} of {{ page_obj.paginator.num_pages }}</span>{% if page_obj.has_next %}<a href="?{{ pagination_query }}&page={{ page_obj.next_page_number }}">Next →</a>{% endif %}</nav>{% endif %}
+  </div>
+</section>
+{% endblock %}

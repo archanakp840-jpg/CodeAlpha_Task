@@ -1,0 +1,8 @@
+<article class="product-card">
+  <a class="product-image" href="{% url 'product_detail' product.slug %}">
+    {% if product.image %}<img src="{{ product.image.url }}" alt="{{ product.name }}" loading="lazy">{% else %}<div class="image-placeholder">⌂<span>everyday<br>essentials</span></div>{% endif %}
+    {% if product.is_new %}<span class="product-tag">NEW</span>{% elif product.old_price and product.old_price > product.price %}<span class="product-tag">A GOOD FIND</span>{% endif %}
+  </a>
+  <div class="product-info"><div><p class="product-category">{{ product.category.name }}</p><a class="product-name" href="{% url 'product_detail' product.slug %}">{{ product.name }}</a></div><div class="product-prices"><strong>₹{{ product.price }}</strong>{% if product.old_price and product.old_price > product.price %}<del>₹{{ product.old_price }}</del>{% endif %}</div></div>
+  {% if user.is_staff %}<div class="staff-product-actions"><a class="add-button staff-detail" href="{% url 'product_detail' product.slug %}">Product details <span>↗</span></a>{% if perms.store.change_product %}<a class="staff-edit" href="{% url 'admin:store_product_change' product.id %}">Edit</a>{% endif %}</div>{% else %}<form method="post" action="{% url 'add_to_cart' product.id %}" class="add-form">{% csrf_token %}<button class="add-button" {% if not product.stock %}disabled{% endif %}>{% if product.stock %}Add to cart <span>＋</span>{% else %}Sold out{% endif %}</button></form>{% endif %}
+</article>
