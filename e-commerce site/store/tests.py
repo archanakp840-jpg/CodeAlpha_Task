@@ -1,4 +1,58 @@
-rname': 'staffer', 'password': 'SafePass!4931',
+from django.test import TestCase
+from django.contrib.auth.models import User, Permission
+from django.urls import reverse
+from .models import Category, Product, Cart, CartItem, Order, OrderItem, NewsletterSubscriber
+
+
+class StorefrontRoleTests(TestCase):
+    def setUp(self):
+        category = Category.objects.create(name='Home', slug='home')
+        self.product = Product.objects.create(
+            category=category, name='Linen Throw', slug='linen-throw',
+            description='A soft throw for the sofa.', price='1299.00', stock=5,
+            is_active=True,
+        )
+
+    def test_customer_registration_is_available_and_signs_customer_in(self):
+        response = self.client.post(reverse('register'), {
+            'username': 'shopper', 'password1': 'SafePass!4931',
+            'password2': 'SafePass!4931',
+        })
+        self.assertRedirects(response, reverse('home'))
+        self.assertTrue(User.objects.get(username='shopper').is_active)
+        self.assertEqual(str(User.objects.get(username='shopper').pk), self.client.session.get('_auth_user_id'))
+
+    def test_customer_sees_add_to_cart_and_can_add_product(self):
+        User.objects.create_user(username='shopper', password='SafePass!4931')
+        self.client.login(username='shopper', password='SafePass!4931')
+        response = self.client.get(reverse('home'))
+        self.assertContains(response, 'Add to cart')
+        self.client.post(reverse('add_to_cart', args=[self.product.id]))
+        from .models import CartItem
+        self.assertEqual(CartItem.objects.filter(cart__user__username='shopper', product=self.product).get().quantity, 1)
+
+    def test_staff_gets_product_edit_link_and_no_cart_action(self):
+        staff = User.objects.create_user(username='staffer', password='SafePass!4931', is_staff=True)
+        staff.user_permissions.add(Permission.objects.get(codename='change_product', content_type__app_label='store'))
+        self.client.login(username='staffer', password='SafePass!4931')
+        response = self.client.get(reverse('home'))
+        self.assertContains(response, reverse('admin:store_product_change', args=[self.product.id]))
+        self.assertContains(response, 'Product details')
+        self.assertNotContains(response, 'Add to bag')
+
+    def test_admin_can_review_accounts_and_admin_activity(self):
+        admin_user = User.objects.create_superuser(username='admin', email='admin@example.com', password='SafePass!4931')
+        self.client.force_login(admin_user)
+        self.assertEqual(self.client.get(reverse('admin:auth_user_changelist')).status_code, 200)
+        self.assertEqual(self.client.get(reverse('admin:admin_logentry_changelist')).status_code, 200)
+
+
+    def test_customer_and_staff_login_are_separate(self):
+        User.objects.create_user(username='customer', password='SafePass!4931')
+        User.objects.create_user(username='staffer', password='SafePass!4931', is_staff=True)
+
+        response = self.client.post(reverse('login'), {
+            'username': 'staffer', 'password': 'SafePass!4931',
         })
         self.assertEqual(response.status_code, 200)
         self.assertContains(response, 'Staff and admin accounts should use staff sign-in.')

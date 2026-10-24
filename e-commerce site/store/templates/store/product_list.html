@@ -1,8 +1,3 @@
-tton button-dark" href="{% url 'product_list' %}">Clear filters</a></div>{% endfor %}</div>
-    {% if page_obj.paginator.num_pages > 1 %}<nav class="pagination" aria-label="Product pages">{% if page_obj.has_previous %}<a href="?{{ pagination_query }}&page={{ page_obj.previous_page_number }}">← Previous</a>{% endif %}<span>Page {{ page_obj.number }} of {{ page_obj.paginator.num_pages }}</span>{% if page_obj.has_next %}<a href="?{{ pagination_query }}&page={{ page_obj.next_page_number }}">Next →</a>{% endif %}</nav>{% endif %}
-  </div>
-</section>
-{% endblock %}
 {% extends 'store/base.html' %}
 {% block title %}Explore Products — HomeMate{% endblock %}
 {% block content %}
@@ -15,4 +10,8 @@ tton button-dark" href="{% url 'product_list' %}">Clear filters</a></div>{% endf
     <input type="hidden" name="sort" value="{{ sort }}"><button class="button button-dark apply-filters">Apply filters</button>
   </form>
   <div class="listing-results"><div class="listing-toolbar"><span><strong>{{ result_count }}</strong> product{{ result_count|pluralize }}</span><label>Sort by <select name="sort" form="filters" onchange="this.form.submit()"><option value="featured" {% if sort == 'featured' %}selected{% endif %}>Featured</option><option value="price_asc" {% if sort == 'price_asc' %}selected{% endif %}>Price: low to high</option><option value="price_desc" {% if sort == 'price_desc' %}selected{% endif %}>Price: high to low</option><option value="newest" {% if sort == 'newest' %}selected{% endif %}>Newest</option></select></label></div>
-    <div class="product-grid">{% for product in products %}{% include 'store/partials/product_card.html' with product=product %}{% empty %}<div class="empty-state"><h3>No products match those filters.</h3><p>Try widening the price range or exploring another category.</p><a class="bu
+    <div class="product-grid">{% for product in products %}{% include 'store/partials/product_card.html' with product=product %}{% empty %}<div class="empty-state"><h3>No products match those filters.</h3><p>Try widening the price range or exploring another category.</p><a class="button button-dark" href="{% url 'product_list' %}">Clear filters</a></div>{% endfor %}</div>
+    {% if page_obj.paginator.num_pages > 1 %}<nav class="pagination" aria-label="Product pages">{% if page_obj.has_previous %}<a href="?{{ pagination_query }}&page={{ page_obj.previous_page_number }}">← Previous</a>{% endif %}<span>Page {{ page_obj.number }} of {{ page_obj.paginator.num_pages }}</span>{% if page_obj.has_next %}<a href="?{{ pagination_query }}&page={{ page_obj.next_page_number }}">Next →</a>{% endif %}</nav>{% endif %}
+  </div>
+</section>
+{% endblock %}
